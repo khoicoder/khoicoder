@@ -1,3 +1,2 @@
-- chào mấy conc ...
-
+-Em Khôi học code ^ ^
 
