@@ -23,12 +23,12 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-<!-- GitHub Stats chính -->
-  <img src="https://github-readme-stats.vercel.app/api?username=khoicoder&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoicoder&theme=dark&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
+<!-- GitHub Stats chính với link dự phòng -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khoicoder&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+
+<!-- Top Languages với link dự phòng -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khoicoder&theme=dark&layout=compact" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoicoder&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 
