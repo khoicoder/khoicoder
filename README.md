@@ -41,8 +41,10 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khoicoder&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoicoder&theme=rose_pine" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoicoder&theme=rose_pine" alt="Stats Card" />
+</p>
 ---
 
 ## 🌐 Connect with me:
