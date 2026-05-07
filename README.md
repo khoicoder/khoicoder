@@ -6,7 +6,7 @@
 
 - 👨‍💻 **Backend Developer** tập trung vào hệ thống và kiến trúc cơ sở dữ liệu.
 - 🎓 Sinh viên Đại học đang trên hành trình chinh phục 150 tín chỉ.
-- 🛠️ Đam mê: **Node.js, Java Microservices**, và kỹ thuật trong **Minecraft**.
+- 🛠️ Đam mê: **Node.js, Java Microservices**
 
 ---
 
