@@ -4,9 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=khoicoder&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
-- 👨‍💻 **Backend Developer** tập trung vào hệ thống và kiến trúc cơ sở dữ liệu.
-- 🎓 Sinh viên Đại học đang trên hành trình chinh phục 150 tín chỉ.
-- 🛠️ Đam mê: **Node.js, Java Microservices**
+🚀 Backend Developer định hướng xây dựng hệ thống scalable và tối ưu kiến trúc dữ liệu.
+🎓 Sinh viên Software Engineering đang trên hành trình hoàn thành 150 tín chỉ đại học.
+🛠️ Yêu thích phát triển hệ thống với **Java Spring Boot, Microservices, Node.js, React & Next.js**.
+⚡ Quan tâm đến thiết kế API, Authentication JWT, Database Design và kiến trúc backend hiện đại.
+
 
 ---
 
