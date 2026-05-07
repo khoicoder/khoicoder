@@ -12,7 +12,7 @@
 
 ## 🐍 Contribution Snake (Pink Edition)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoicoder/khoicoder/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/khoicoder/khoicoder/output/github-contribution-grid-snake.svg?v=3" alt="Snake animation" />
 </p>
 
 ---
