@@ -42,7 +42,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=khoicoder&limit=5&theme=rose_pine&combine_all_yearly_contributions=true&v=1" />
+![](https://github-contributor-stats.vercel.app/api?username=khoicoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
 
 ---
