@@ -2,12 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Chạy mỗi 12 giờ để cập nhật dữ liệu mới nhất
+    - cron: "0 */2 * * *" # Chạy mỗi 2 tiếng một lần
   workflow_dispatch:
   push:
     branches:
     - main
-    - master
 
 jobs:
   generate:
@@ -17,14 +16,22 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Generate Random Color
+        id: random_color
+        run: |
+          # Tạo mã màu HEX ngẫu nhiên
+          COLOR=$(printf "%02x%02x%02x" $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)))
+          echo "hex=%23$COLOR" >> $GITHUB_OUTPUT
+          echo "Sẽ dùng màu: #$COLOR cho con rắn"
+
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4&color_dots=%23ebedf0,%23ffc0cb,%23ffb6c1,%23ff69b4,%23ff1493
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff69b4&color_dots=%23161b22,%2350223e,%237e2a58,%23b93a7e,%23ff69b4
+            # Sử dụng biến ngẫu nhiên từ bước trên vào color_snake
+            dist/github-contribution-grid-snake.svg?color_snake=${{ steps.random_color.outputs.hex }}&color_dots=%23ebedf0,%23ffc0cb,%23ffb6c1,%23ff69b4,%23ff1493
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=${{ steps.random_color.outputs.hex }}&color_dots=%23161b22,%2350223e,%237e2a58,%23b93a7e,%23ff69b4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
