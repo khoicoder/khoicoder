@@ -5,14 +5,13 @@
 </p>
 
 🚀 Backend Developer định hướng xây dựng hệ thống scalable và tối ưu kiến trúc dữ liệu.
-🎓 Sinh viên Software Engineering đang trên hành trình hoàn thành 150 tín chỉ đại học.
+🎓 Sinh viên Software Engineering đang trên hành trình đại học.
 🛠️ Yêu thích phát triển hệ thống với **Java Spring Boot, Microservices, Node.js, React & Next.js**.
 ⚡ Quan tâm đến thiết kế API, Authentication JWT, Database Design và kiến trúc backend hiện đại.
 
+-------------------------------------------
 
----
-
-## 🐍 Contribution Snake (Pink Edition)
+## 🐍 Contribution Snake ##
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoicoder/khoicoder/output/github-contribution-grid-snake.svg?v=3" alt="Snake animation" />
 </p>
@@ -30,9 +29,9 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+-----------------------
 
-## 📊 GitHub Stats (Rose Pine Theme)
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khoicoder&show_icons=true&theme=rose_pine&count_private=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khoicoder&theme=rose_pine&layout=compact&v=1" alt="Top Languages" />
