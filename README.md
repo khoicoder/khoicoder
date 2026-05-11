@@ -16,8 +16,7 @@
   <img src="https://raw.githubusercontent.com/khoicoder/khoicoder/output/github-contribution-grid-snake.svg?v=3" alt="Snake animation" />
 </p>
 
----
-
+--------------------------------------------
 ## 💻 Tech Stack
 
 ### 🚀 Languages & Core
@@ -46,8 +45,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoicoder&theme=rose_pine" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoicoder&theme=rose_pine" alt="Stats Card" />
 </p>
----
-
+-------------------
+THANKS
+-------------------
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://www.facebook.com/Ma.progame101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
